@@ -31,6 +31,11 @@
 <code><a href="https://streamlit.io/brand"><img alt="streamlit" title="Streamlit" src="streamlit.png" height="46"></a></code>
 ____
 
+<h3 align="left">Let's keep in touch:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/paul-andré-" target="blank"><img align="center" src="linkedin_color.png" alt="PaulAandree" height="30" width="40" /></a>
+</p>
+
 #DataScience #MachineLearning #Python #R #DataAnalysis #DataVisualization
 
 ![hey!](./github-contribution-grid-snake.svg#gh-light-mode-only)
