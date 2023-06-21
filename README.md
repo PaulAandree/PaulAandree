@@ -36,7 +36,7 @@ ____
 <a href="https://www.linkedin.com/in/paul-andré-" target="blank"><img align="center" src="linkedin_color.png" alt="PaulAandree" height="30" width="40" /></a>
 </p>
 
-#DataScience #MachineLearning #Python #R #DataAnalysis #DataVisualization
+#DataScience #MachineLearning #Python #DataAnalysis #DataVisualization
 
 ![hey!](./github-contribution-grid-snake.svg#gh-light-mode-only)
 ![hey!](./github-contribution-grid-snake.svg#gh-dark-mode-only)
