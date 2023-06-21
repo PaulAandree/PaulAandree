@@ -20,10 +20,15 @@
 
 🌱 I'm constantly expanding my knowledge and staying up-to-date with the latest developments in data science. You can find my personal projects, code samples, and data visualizations on my GitHub.
 
-📫 Let's connect!
-![linkedin](./linkedin_black.png#gh-light-mode-only)[[https://www.linkedin.com/in/paul-andré-/]
-![linkedin](./linkedin_color.png#gh-dark-mode-only)[
-https://www.linkedin.com/in/paul-andré-/]
+### Languages/Frameworks En los que soy bueno:
+<code><a href="https://www.mysql.com"><img alt="MySQL" title="MySQL" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="50"></a></code>
+<code><a href="https://www.oracle.com/ar/"><img alt="Oracle" title="Oracle" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" height="50"></a></code>
+<code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="50"></a></code>
+### Languages/Frameworks En los que estoy estudiando:
+<code><a href="https://www.python.org"><img alt="Python" title="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="48"></a></code>
+### Ambientes en los que Trabajo:
+<code><a href="https://code.visualstudio.com"><img alt="Visual Studio Code" title="Visual Studio Code" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="46"></a></code>
+____
 
 #DataScience #MachineLearning #Python #R #DataAnalysis #DataVisualization
 
