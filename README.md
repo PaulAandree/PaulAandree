@@ -21,13 +21,16 @@
 🌱 I'm constantly expanding my knowledge and staying up-to-date with the latest developments in data science. You can find my personal projects, code samples, and data visualizations on my GitHub.
 
 📫 Let's connect!
-![linkedin](./linkedin_black.png#gh-light-mode-only)
-![linkedin](./linkedin_color.png#gh-dark-mode-only)
+![linkedin](./linkedin_black.png#gh-light-mode-only)[www.linkedin.com/in/
+https://www.linkedin.com/in/paul-andré-/]
+![linkedin](./linkedin_color.png#gh-dark-mode-only)[www.linkedin.com/in/
+https://www.linkedin.com/in/paul-andré-/]
 
 #DataScience #MachineLearning #Python #R #DataAnalysis #DataVisualization
 
 ![hey!](./github-contribution-grid-snake.svg#gh-light-mode-only)
 ![hey!](./github-contribution-grid-snake.svg#gh-dark-mode-only)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **PaulAandree/PaulAandree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
