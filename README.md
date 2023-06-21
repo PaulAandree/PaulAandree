@@ -20,9 +20,9 @@
 
 🌱 I'm constantly expanding my knowledge and staying up-to-date with the latest developments in data science. You can find my personal projects, code samples, and data visualizations on my GitHub.
 
-### Languages/Frameworks En los que soy bueno:
+### Languages/Frameworks proficient:
 <code><a href="https://www.mysql.com"><img alt="MySQL" title="MySQL" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="50"></a></code>
-<code><a href="https://www.oracle.com/ar/"><img alt="Oracle" title="Oracle" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" height="50"></a></code>
+<code><a href="https://www.microsoft.com/es-mx/sql-server/sql-server-downloads?rtc=1"><img alt="SSMS" title="SSMS" src="ssms logo.png" height="50"></a></code>
 <code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="50"></a></code>
 ### Languages/Frameworks En los que estoy estudiando:
 <code><a href="https://www.python.org"><img alt="Python" title="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="48"></a></code>
