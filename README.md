@@ -20,11 +20,15 @@
 
 🌱 I'm constantly expanding my knowledge and staying up-to-date with the latest developments in data science. You can find my personal projects, code samples, and data visualizations on my GitHub.
 
-📫 Let's connect! Feel free to reach out to me via email at pauljaureguihf@gmail.com or connect with me on LinkedIn. I'm open to collaborating on exciting data science projects and exploring new opportunities!
+📫 Let's connect!
+![linkedin](./linkedin_black.png#gh-light-mode-only)
+![linkedin](./linkedin_color.png#gh-dark-mode-only)
 
 #DataScience #MachineLearning #Python #R #DataAnalysis #DataVisualization
 
-[hey!](E:\GITHUB\PaulAandree\github-contribution-grid-snake.svg)
+![hey!](./github-contribution-grid-snake.svg#gh-light-mode-only)
+![hey!](./github-contribution-grid-snake.svg#gh-dark-mode-only)
+
 <!--
 **PaulAandree/PaulAandree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
