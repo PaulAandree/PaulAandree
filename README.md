@@ -24,7 +24,7 @@
 
 #DataScience #MachineLearning #Python #R #DataAnalysis #DataVisualization
 
-[hey!](E:\GITHUB\PaulAandree\github-contribution-grid-snake.svg)
+[hey!](github-contribution-grid-snake.svg)
 <!--
 **PaulAandree/PaulAandree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
