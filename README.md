@@ -23,7 +23,7 @@
 ### Languages/Frameworks proficient in:
 <code><a href="https://www.mysql.com"><img alt="MySQL" title="MySQL" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="50"></a></code>
 <code><a href="https://www.microsoft.com/es-mx/sql-server/sql-server-downloads?rtc=1"><img alt="SSMS" title="SSMS" src="ssms logo.png" height="50"></a></code>
-<code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="50"></a></code>
+<code><a href="https://www.mongodb.com/"><img alt="Mongodb" title="Mongodb" src="mongo db.png" height="50"></a></code>
 ### Languages/Frameworks in which i'm studying:
 <code><a href="https://www.python.org"><img alt="Python" title="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="48"></a></code>
 ### Tools I use:
