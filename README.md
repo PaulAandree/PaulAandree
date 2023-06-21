@@ -33,7 +33,7 @@ ____
 
 <h3 align="left">Let's keep in touch:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/paul-andré-" target="blank"><img align="center" src="linkedin_color.png" alt="PaulAandree" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/paul-andré-" target="blank"><img align="center" src="linkedin_color.png" alt="PaulAandree" height="50" width="50" /></a>
 </p>
 
 #DataScience #MachineLearning #Python #DataAnalysis #DataVisualization
