@@ -7,7 +7,7 @@
 - Statistical modeling
 - Data visualization
 
-🎓 I hold a Bachelor's degree in Industrial engineering from Universidad Nacional de Callao. During my Henry Data Science bootcamp studies, I gained hands-on experience in analyzing datasets, cleaning data, improving my Python skills, and building dashboards and predictive models.
+🎓 I am a graduate Industrial engineering from Universidad Nacional de Callao. During my Henry Data Science bootcamp studies, I gained hands-on experience in analyzing datasets, cleaning data, improving my Python skills, and building dashboards and predictive models.
 
 💼 I'm currently seeking opportunities to apply my skills in a professional setting. I'm particularly interested in joining a team that values innovation, collaboration, and using data-driven approaches to solve real-world problems.
 
